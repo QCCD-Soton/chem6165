@@ -1,1 +1,1 @@
-Lecture on git
+Lecture on git and github
