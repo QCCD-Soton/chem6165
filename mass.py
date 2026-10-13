@@ -1,4 +1,4 @@
-heading = "molecular weight"
+heading = "Molecular Weight"
 hydrogen = 1.008
 oxygen = 15.999
 
